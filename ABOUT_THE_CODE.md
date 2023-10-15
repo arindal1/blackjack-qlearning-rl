@@ -1,5 +1,6 @@
-[qlearning.py](#qlearning.py) || [blackjack.py](#blackjack.py) || [main.py](#main.py)
+[qlearning.py](#ql) || [blackjack.py](#bl) || [main.py](#main)
 
+<a name="ql"></a>
 ## qlearning.py
 
 ```python
@@ -173,6 +174,7 @@ print(f"Win rate: {wins/(wins + losses)*100:.2f}%")
 
 ---
 
+<a name="bl"></a>
 ## blackjack.py
 
 This code defines a Blackjack game simulator with a simple console interface where the player can interact with the game by choosing actions such as "hit" or "stay." Here's a detailed explanation of each part of the code:
@@ -351,6 +353,7 @@ if __name__ == "__main__":
 
 ---
 
+<a name="main"></a>
 ## main.py
 
 This script combines the previously defined `BlackjackGame` and `BlackjackQLearning` classes to train a Q-learning agent to play Blackjack and test its performance. Let's go through each part step by step:
