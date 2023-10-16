@@ -1,5 +1,7 @@
 # AI Blackjack w/ Q-learning
 
+![blackjack](https://images.ctfassets.net/93v9a59si7ol/2aHiswcjTt7sXcWtJ7JzAZ/c8759819f9bc7aabac9c6b86bc95ce66/top-view-of-blackjack-table.png?w=1160&h=640&fit=thumb)
+
 This project implements a Q-learning-based reinforcement learning solution to play the popular casino card game, Blackjack. The implementation consists of two main components: `BlackjackQLearning`, representing the Q-learning agent, and `BlackjackGame`, modeling the game of Blackjack.
 
 ## Introduction
